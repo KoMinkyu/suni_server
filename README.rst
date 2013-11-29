@@ -1,5 +1,5 @@
-penstack Manuals
-+++++++++++++++++
+Suni Server Project
++++++++++++++++++++
 
 This repository contains the server project for the
 과외순이 project.
