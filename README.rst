@@ -9,12 +9,7 @@ Prerequisites
 `Google App Engine <http://developers.google.com/appengine/>`_ must be installed to run this
 server.
 
-To install Google App Engine for Ubuntu 12.04 and later::
+To download and install Google App Engine::
 
-    not yet
-
-On Mac::
-
-    not yet
-
+    'Download Google App Engine <https://developers.google.com/appengine/downloads/>'_
 
