@@ -11,5 +11,5 @@ server.
 
 To download and install Google App Engine::
 
-    `Download Google App Engine <https://developers.google.com/appengine/downloads/>`_
+Download Google App Engine <https://developers.google.com/appengine/downloads/>`_
 
