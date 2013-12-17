@@ -5,6 +5,8 @@ from django.conf.urls import patterns, include, url
 # admin.autodiscover()
 
 urlpatterns = patterns('',
+    url(r'^', include('suni_server.restapi.urls', namespace="suni_api")),
+    url(r'^docs/', include('rest_framework_swagger.urls', namespace="swagger")),
     # Examples:
     # url(r'^$', 'suni_server.views.home', name='home'),
     # url(r'^suni_server/', include('suni_server.foo.urls')),
